@@ -188,7 +188,7 @@ main {
     /* outline: 1px solid red; */
     position: absolute;
     left: 30px;
-    top: 40vh;
+    bottom: 160px;
     /* background-color: orange; */
 }
 
